@@ -1,4 +1,4 @@
--   id: pdb
+-   id: python-debugger
     name: Check for PDB
     description: Basic pre-commit hook for avoid commit code with pdb/ipdb
     entry: pdb.sh
